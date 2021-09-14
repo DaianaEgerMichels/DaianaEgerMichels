@@ -1,4 +1,4 @@
-### Olá, eu sou a Daiana Eger Michels! 👋
+### Olá, me chamo Daiana! 👋
 
 - 🌱 Atualmente estou aprendendo HTML5 , CSS3 e JavaScript
 - 😄 Pronomes: ela/dela
