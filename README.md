@@ -1,7 +1,7 @@
 ### Olá, me chamo Daiana! 👋
 
 - 🌱 Atualmente estou aprendendo HTML5 , CSS3 e JavaScript
-- 😄 Pronome : Daí 
+- 😄 Pronome : She
 
   <div>
   <a href="https://github.com/DaianaEgerMichels">
