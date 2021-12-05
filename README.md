@@ -1,6 +1,6 @@
 ### Olá, me chamo Daiana! 👋
 
-- 🌱 Atualmente estou aprendendo HTML5 , CSS3 , JavaScript e React.
+- 🌱 Atualmente estou aprendendo Java.
 - 😄 Pronome : She
 
   <div>
@@ -15,6 +15,7 @@
    <img align="center" alt="Dai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Dai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dai-React" height = "30" width = "40" src="https://vectorified.com/images/icon-react-native-24.png">
+  <img align="center" alt="Dai-Java" height = "30" width = "40" src="https://vectorified.com/image/java-logo-vector-24.png">
   
   
 </div>
