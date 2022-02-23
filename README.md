@@ -1,6 +1,6 @@
 ### Olá, me chamo Daiana! 👋
 
-- 🌱 Atualmente estou aprendendo Java.
+- 🌱 Atualmente estou aprendendo Java, Spring e BD.
 
   <div>
   <a href="https://github.com/DaianaEgerMichels">
