@@ -1,6 +1,6 @@
 ### Olá, me chamo Daiana! 👋
 
-- 🌱 Atualmente estou aprendendo Java, Spring e BD (PostgreSQL).
+- 🌱 Atualmente estou aprendendo TDD, Tests Unitários (Back e front-end), Docker.
 
   <div>
   <a href="https://github.com/DaianaEgerMichels">
