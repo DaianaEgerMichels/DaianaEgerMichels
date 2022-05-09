@@ -1,6 +1,6 @@
 ### Olá, me chamo Daiana! 👋
 
-- 🌱 Atualmente estou aprendendo TDD, Tests Unitários (Back e front-end), Docker.
+- 🌱 Atualmente estou aprendendo TDD, Tests Unitários (Back e front-end), Docker, Redux, Mensageria.
 
   <div>
   <a href="https://github.com/DaianaEgerMichels">
