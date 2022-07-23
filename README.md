@@ -1,6 +1,8 @@
-### Olá, me chamo Daiana! 👋
-
-- 🌱 Atualmente estou ampliando e aperfeiçoando meus conhecimentos na área de desenvolvimento web
+### Hi, my name is Daiana (Dai). 👋🏻
+- 👱🏻‍♀️ Pronouns: She | Her 
+- 💻 I am currently acquiring more knowledge in React, Spring Boot and PostgreSQL.
+- 🌱 I'm starting my studies on Typescript.
+- 📖 I recently started reading the Clean Code book.
 
   <div>
   <a href="https://github.com/DaianaEgerMichels">
@@ -10,7 +12,7 @@
   
   ##
   
- ### Um pouco do que já aprendi:
+ ### A little bit of what I've learned:
   
   
 <div style="display: inline_block"><br>
@@ -27,7 +29,7 @@
   
   ##
   
- ### Minhas redes sociais:
+ ### My social networks:
   
 <div> 
   <a href="https://www.instagram.com/daiana.michels" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
