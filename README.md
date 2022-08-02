@@ -4,6 +4,8 @@
 - 🌱 I'm starting my studies on Typescript.
 - 📖 I recently started reading the Clean Code book.
 
+- 🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]
+
   <div>
   <a href="https://github.com/DaianaEgerMichels">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
