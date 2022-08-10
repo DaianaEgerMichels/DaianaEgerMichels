@@ -1,7 +1,7 @@
 ### Hi, my name is Daiana (Dai). 👋🏻
 - 👱🏻‍♀️ Pronouns: She | Her 
 - 💻 I am currently acquiring more knowledge in React, Spring Boot and PostgreSQL.
-- 🌱 I'm starting my studies on Typescript.
+- 🌱 I'm starting my studies on Vue and Typescript.
 - 📖 I recently started reading the Clean Code book.
 
 - 🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]
