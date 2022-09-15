@@ -1,6 +1,6 @@
 ### Hi, my name is Daiana (Dai). 👋🏻
 - 👱🏻‍♀️ Pronouns: She | Her 
-- 🌱 I'm starting my studies on Angular and Typescript.
+- 🌱 I'm starting my studies on Angular, Vue and Typescript.
 - 📖 I'm reading the Clean Code book.
 - 💻 Jr Development Analyst at Pixeon.
 
