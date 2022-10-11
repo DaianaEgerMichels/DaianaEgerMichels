@@ -1,6 +1,5 @@
 ### Hi, my name is Daiana (Dai). 👋🏻
 - 👱🏻‍♀️ Pronouns: She | Her 
-- 🌱 I'm starting my studies on Vue, Nuxt and Tailwind CSS.
 - 💻 Jr Development Analyst at Pixeon.
 
 - 🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]
