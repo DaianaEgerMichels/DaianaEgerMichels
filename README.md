@@ -1,8 +1,7 @@
-### Hi, my name is Daiana (Dai). 👋🏻
-- 👱🏻‍♀️ Pronouns: She | Her 
-- 💻 Jr Development Analyst at Pixeon.
-
-- 🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]
+<h1 align=center> Hi, my name is Daiana (Dai). 👋🏻 </h1>
+<p>👱🏻‍♀️ Pronouns: She | Her </p>
+<p>💻 Jr Development Analyst at Pixeon.</p>
+<p>🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]</p>
 
   <div>
   <a href="https://github.com/DaianaEgerMichels">
