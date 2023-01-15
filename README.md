@@ -2,14 +2,8 @@
 <p>👱🏻‍♀️ Pronouns: She | Her </p>
 <p>💻 Jr Development Analyst at Pixeon.</p>
 <p>🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]</p>
-
-  <div>
-  <a href="https://github.com/DaianaEgerMichels">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaEgerMichels&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
-  ##
+ ##
   
  ### A little bit of what I've learned:
   
