@@ -1,4 +1,4 @@
-<h1> Hi, my name is Daiana (Dai). 👋🏻 </h1>
+<h1> Hello, my name is Daiana  👋🏻 </h1>
 <p>👱🏻‍♀️ Pronouns: She | Her </p>
 <p>💻 Jr Development Analyst at Pixeon.</p>
 <p>🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]</p>
