@@ -19,6 +19,8 @@
   <img align="center" alt="Dai-PostgreSQL" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Dai-Nuxtjs" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Dai-Vue" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Dai-Tailwind" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  
   
   
   
