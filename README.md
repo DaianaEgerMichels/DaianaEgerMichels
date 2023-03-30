@@ -3,9 +3,10 @@
 <p>💻 Jr Development Analyst at Pixeon.</p>
 <p>🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]</p>
   
+
  ##
-  
  ### A little bit of what I've learned:
+
   
   
 <div style="display: inline_block"><br>
@@ -20,15 +21,21 @@
   <img align="center" alt="Dai-Nuxtjs" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Dai-Vue" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Dai-Tailwind" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  
-  
-  
-  
 </div>
+
+
+##
+### GitHub Stats:
+
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaEgerMichels&hide=css,java,html&theme=radical">
+</p>
   
-  ##
-  
+ ##
  ### My social networks:
+
   
 <div> 
   <a href="https://www.instagram.com/daiana.michels" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
