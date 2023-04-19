@@ -1,6 +1,6 @@
 <h1> Hello, my name is Daiana  👋🏻 </h1>
 <p>👱🏻‍♀️ Pronouns: She | Her </p>
-<p>💻 Jr Development Analyst at Pixeon.</p>
+<p>💻 Jr Development at Pixeon.</p>
 <p>🎓 Jr Developer Full Stack - Dev in House [Involves | Paripassu]</p>
 <p>📚 Acquiring and improving knowledge on the Alura platform. </p>
   
