@@ -22,6 +22,7 @@
   <img align="center" alt="Dai-Nuxtjs" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Dai-Vue" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Dai-Tailwind" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Dai-Docker" height = "40" width = "50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 </div>
 
 
