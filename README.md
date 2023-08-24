@@ -31,7 +31,6 @@
 
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DaianaEgerMichels&hide=css,HTML,kotlin&theme=radical">
   <img src = "https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&theme=radical&line_height=27">  
 </p>
   
