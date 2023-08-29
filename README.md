@@ -1,45 +1,49 @@
-<h1> Hello, my name is Daiana  👋🏻 </h1>
-<p>👱🏻‍♀️ Pronouns: She | Her </p>
-<p>💻 Jr Development at Pixeon.</p>
-<p>🎓 Jr Full Stack Developer - Dev in House [Involves | Paripassu]</p>
-<p>📚 Acquiring and improving knowledge on the Alura platform and Santander Bootcamp at DIO. </p>
-  
-
- ##
- ### A little bit of what I've learned:
-
-  
-  
-<div style="display: inline_block"><br>
-   <img align="center" alt="Dai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Dai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Dai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Dai-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Dai-React" height = "30" width = "40" src="https://vectorified.com/images/icon-react-native-24.png">
-  <img align="center" alt="Dai-Java" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Dai-Spring" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Dai-PostgreSQL" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Dai-Nuxtjs" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="Dai-Vue" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Dai-Tailwind" height = "30" width = "40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Dai-Docker" height = "40" width = "50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-</div>
+# Olá, meu nome é Daiana  👋🏻 
+<p>👱🏻‍♀️ Pronomes - Ela | Dela </p>
+<p>💻 Desenvolvedora Full Stack na Pixeon</p>
+<p>🎓 Técnico em Desenvolvimento Full Stack - Java & React - Dev in House - SENAI [Involves | Paripassu]</p>
 
 
-##
-### GitHub Stats:
+
+## Conecte-se comigo
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0094A1?style=for-the-badge)](https://www.dio.me/users/daianaem_12) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-01D7DE?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daiana-eger-michels/)
+[![GitHub](https://img.shields.io/badge/GitHub-9F44D3?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/DaianaEgerMichels)
 
 
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&theme=radical&line_height=27">  
-</p>
-  
- ##
- ### My social networks:
 
-  
-<div> 
-  <a href="https://www.instagram.com/daiana.michels" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/daianamichels" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/19972309daiana-eger-michels/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## Habilidades
+
+![HTML5](https://img.shields.io/badge/HTML5-333366?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-333366?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-333366?style=for-the-badge&logo=javascript&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-333366?style=for-the-badge&logo=git&logoColor=fff)
+![React](https://img.shields.io/badge/React-333366?style=for-the-badge&logo=react&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue-333366?style=for-the-badge&logo=vue.js&logoColor=fff)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-333366?style=for-the-badge&logo=nuxt.js&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-333366?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-333366?style=for-the-badge&logo=java&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/Spring-333366?style=for-the-badge&logo=spring&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333366?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-333366?style=for-the-badge&logo=mysql&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-333366?style=for-the-badge&logo=docker&logoColor=fff)
+
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&icon_color=006494&title_color=7367F0&theme=radical&line_height=27&border_color=30A3DC)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaianaEgerMichels&layout=compact&theme=radical&border_color=30A3DC&title_color=7367F0&line_height=27)
+
+## GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DaianaEgerMichels&theme=radical&border=30A3DC&dates=7367F0)](https://git.io/streak-stats)
+
+## Projetos
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=DaianaEgerMichels&repo=my-portfolio&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7367F0&text_color=FFF)](https://github.com/DaianaEgerMichels/my-portfolio)
+
+[![Health System](https://github-readme-stats.vercel.app/api/pin/?username=DaianaEgerMichels&repo=HealthcareInstitution-app&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7367F0&text_color=FFF)](https://github.com/DaianaEgerMichels/HealthcareInstitution-app)
+
+[![Health System API](https://github-readme-stats.vercel.app/api/pin/?username=DaianaEgerMichels&repo=HealthcareInstitution-api&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7367F0&text_color=FFF)](https://github.com/DaianaEgerMichels/HealthcareInstitution-api)
