@@ -36,9 +36,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaianaEgerMichels&layout=compact&theme=radical&border_color=30A3DC&title_color=7367F0&line_height=27)
 
-## GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DaianaEgerMichels&theme=radical&border=30A3DC&dates=7367F0)](https://git.io/streak-stats)
 
 ## Projetos
 
