@@ -9,7 +9,6 @@
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0094A1?style=for-the-badge)](https://www.dio.me/users/daianaem_12) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-01D7DE?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daiana-eger-michels/)
-[![GitHub](https://img.shields.io/badge/GitHub-9F44D3?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/DaianaEgerMichels)
 
 
 
