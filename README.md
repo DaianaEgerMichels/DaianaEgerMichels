@@ -7,7 +7,6 @@
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0094A1?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/daiana-eger-michels/)
-[![Perfil DIO](https://img.shields.io/badge/-My%20Profile%20on%20DIO-0094A1?style=for-the-badge)](https://www.dio.me/users/daianaem_12) 
 
 
 
