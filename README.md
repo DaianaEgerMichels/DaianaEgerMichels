@@ -1,5 +1,5 @@
 # Hi, my name's Daiana  👋🏻 
-<p>👱🏻‍♀️ Pronouns - She | Her </p>
+<p>👱🏻‍♀️ She | Her </p>
 <p>💻 Full Stack Developer</p>
 <p>🎓 Full Stack Development Technician - Java & React - Dev in House - SENAI [Involves | Paripassu]</p>
 
