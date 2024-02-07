@@ -38,10 +38,6 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaianaEgerMichels&layout=compact&theme=radical&border_color=30A3DC&title_color=7367F0&line_height=27)
 
 
-## Projects
+## Portfolio
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=DaianaEgerMichels&repo=my-portfolio&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7367F0&text_color=FFF)](https://github.com/DaianaEgerMichels/my-portfolio)
-
-[![Health System](https://github-readme-stats.vercel.app/api/pin/?username=DaianaEgerMichels&repo=HealthcareInstitution-app&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7367F0&text_color=FFF)](https://github.com/DaianaEgerMichels/HealthcareInstitution-app)
-
-[![Health System API](https://github-readme-stats.vercel.app/api/pin/?username=DaianaEgerMichels&repo=HealthcareInstitution-api&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7367F0&text_color=FFF)](https://github.com/DaianaEgerMichels/HealthcareInstitution-api)
