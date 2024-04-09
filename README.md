@@ -1,7 +1,6 @@
 # Hi, my name's Daiana  👋🏻 
 <p>👱🏻‍♀️ She | Her </p>
 <p>💻 Full Stack Developer</p>
-<p>🎓 Full Stack Development Technician - Java & React - Dev in House - SENAI [Involves | Paripassu]</p>
 
 
 
@@ -26,6 +25,7 @@
 ![Java](https://img.shields.io/badge/Java-333366?style=for-the-badge&logo=java&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring-333366?style=for-the-badge&logo=spring&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-333366?style=for-the-badge&logo=node.js&logoColor=fff)
+![Nestjs](https://img.shields.io/badge/Nestjs-333366?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333366?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-333366?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-333366?style=for-the-badge&logo=docker&logoColor=fff)
