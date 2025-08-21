@@ -34,10 +34,3 @@
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&icon_color=006494&title_color=7367F0&theme=radical&line_height=27&border_color=30A3DC)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaianaEgerMichels&layout=compact&theme=radical&border_color=30A3DC&title_color=7367F0&line_height=27)
-
-
-## Portfolio
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=DaianaEgerMichels&repo=my-portfolio&theme=radical&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=7367F0&text_color=FFF)](https://github.com/DaianaEgerMichels/my-portfolio)
