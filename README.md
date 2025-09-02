@@ -24,7 +24,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-333366?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![Java](https://img.shields.io/badge/Java-333366?style=for-the-badge&logo=java&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/Spring-333366?style=for-the-badge&logo=spring&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-333366?style=for-the-badge&logo=node.js&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-333366?style=for-the-badge&logo=python&logoColor=fff)
 ![Nestjs](https://img.shields.io/badge/Nestjs-333366?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333366?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-333366?style=for-the-badge&logo=mysql&logoColor=fff)
