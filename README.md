@@ -29,8 +29,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333366?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-333366?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-333366?style=for-the-badge&logo=docker&logoColor=fff)
-
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaianaEgerMichels&show_icons=true&icon_color=006494&title_color=7367F0&theme=radical&line_height=27&border_color=30A3DC)
